@@ -32,10 +32,10 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #0000005F;
+    background-color: #0000006F;
     position: relative;
     top: 20%;
-    padding: 0px 32px;
+    padding: 8px 32px;
     box-sizing:border-box;
 }
 
@@ -141,6 +141,7 @@ input:invalid {
     content: "* Passwords do not match";
     color: darkred;
     font-size: 0.7rem;
+    position: absolute;
 }
 
 .button {
