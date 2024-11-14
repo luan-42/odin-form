@@ -17,6 +17,7 @@ main {
     width: 50%;
     min-width: 500px;
     box-sizing:border-box;
+    background-color: #596D48;
     background-image: url("./images/halie-west-25xggax4bSA-unsplash.jpg");
     background-size: cover;
     position: relative;
